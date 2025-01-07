@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 02 Oct 2020 00:00:00 -0000
+Source: ros-one-slam-gmapping
+Binary: ros-one-slam-gmapping
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.4.2-2-geec8606-2025.01.07.17.00
+Distribution: sid
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-slam-gmapping - slam_gmapping contains a wrapper around gmapping which provides S
+Changes:
+ ros-one-slam-gmapping (1.4.2-2-geec8606-2025.01.07.17.00) sid; urgency=high
+Checksums-Sha1:
+ 6551657acb0a3e3ceb0745f80f00f8bce2bb81e6 7089 ros-one-slam-gmapping_1.4.2-2-geec8606-2025.01.07.17.00_amd64.buildinfo
+ 7e64e44d36538c20787a049443c3203b03568519 2588 ros-one-slam-gmapping_1.4.2-2-geec8606-2025.01.07.17.00_amd64.deb
+Checksums-Sha256:
+ 1b5a0c19a6b2e31f031b7bcd820117e632ad5b7301922e3787e5efeb14dadef7 7089 ros-one-slam-gmapping_1.4.2-2-geec8606-2025.01.07.17.00_amd64.buildinfo
+ 549d9bc30ba9d706520f74f8d021cd18ad7644f40bedeec017fd3825bf191207 2588 ros-one-slam-gmapping_1.4.2-2-geec8606-2025.01.07.17.00_amd64.deb
+Files:
+ 9ff4474503ce9a29b5861148c885b15e 7089 misc optional ros-one-slam-gmapping_1.4.2-2-geec8606-2025.01.07.17.00_amd64.buildinfo
+ 406821f07471516f481696025a6384ca 2588 misc optional ros-one-slam-gmapping_1.4.2-2-geec8606-2025.01.07.17.00_amd64.deb

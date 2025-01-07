@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-single-joint-position-action
+Binary: ros-one-single-joint-position-action ros-one-single-joint-position-action-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2025.01.07.19.18
+Distribution: sid
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-single-joint-position-action - The single joint position action is a node that provides an actio
+Changes:
+ ros-one-single-joint-position-action (1.10.18-3-g8e8dfa0-2025.01.07.19.18) sid; urgency=high
+Checksums-Sha1:
+ c09dbffc8b1a891b8dc8262e157e24bafb62a5c4 930568 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.07.19.18_amd64.deb
+ ba8bbff987d8cb9a530b7033fc1aabb613fffae0 12611 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.07.19.18_amd64.buildinfo
+ 38a6d6c49b5ee3be5a675e20c53c87db37e1f154 82040 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.07.19.18_amd64.deb
+Checksums-Sha256:
+ cd98ac0bffdb57cc1389632337802c038ccd09a8e5c47849699df485bf5b8893 930568 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.07.19.18_amd64.deb
+ 06e9982747adb01d8628b6e9cdd0e416cd7617e4f62d3b97cd392fbcf2e5c8c2 12611 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.07.19.18_amd64.buildinfo
+ 6b9860fde1293437f4ab031c747cfccad0575d053a149f87fe97f68910c6c723 82040 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.07.19.18_amd64.deb
+Files:
+ e9c2a1109233dd06e477b1c64f83d462 930568 debug optional ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.07.19.18_amd64.deb
+ eb435800fc723b328d0deb6fd5e89795 12611 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.07.19.18_amd64.buildinfo
+ b9dab7324ea7b6aa7cbf9dea0297bfa9 82040 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.07.19.18_amd64.deb

@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-monocam-settler
+Binary: ros-one-monocam-settler ros-one-monocam-settler-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.01.07.16.23
+Distribution: sid
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-monocam-settler - Listens on a ImageFeatures topic, and waits for the data to settl
+Changes:
+ ros-one-monocam-settler (0-2025.01.07.16.23) sid; urgency=high
+ .
+   * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+     Noetic devel
+   * fixes for compiler warnings CMP0048 and CMP0046
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ 40f90bbc7f40b3112035ac4276d32c5ac45dcf8e 1091468 ros-one-monocam-settler-dbgsym_0-2025.01.07.16.23_amd64.deb
+ 13ae9688a603ecfa6863bac984f32120a5ad2579 18007 ros-one-monocam-settler_0-2025.01.07.16.23_amd64.buildinfo
+ 70dfaf872dae77aaaeba163f9eee880acc634090 124460 ros-one-monocam-settler_0-2025.01.07.16.23_amd64.deb
+Checksums-Sha256:
+ 542f65588c366e866ca93e5731ba2c2a1c0bb81d7f59fa3bf943c3d0d6624c7f 1091468 ros-one-monocam-settler-dbgsym_0-2025.01.07.16.23_amd64.deb
+ 26dc9070ead96e5468bdf63093ec1f5c6fbd620601846c7b3a12be8fd3880ff4 18007 ros-one-monocam-settler_0-2025.01.07.16.23_amd64.buildinfo
+ c8a1371d75a00cde655a776bf11281c377fb46a4da61dd0c867c705d5b28e766 124460 ros-one-monocam-settler_0-2025.01.07.16.23_amd64.deb
+Files:
+ 25e927d1109cd21fe95006bde3d446e3 1091468 debug optional ros-one-monocam-settler-dbgsym_0-2025.01.07.16.23_amd64.deb
+ e84f2a704fdfbebd8bab800a6d132688 18007 misc optional ros-one-monocam-settler_0-2025.01.07.16.23_amd64.buildinfo
+ d7a4c7d59a997623b2a654c4a08ff5c5 124460 misc optional ros-one-monocam-settler_0-2025.01.07.16.23_amd64.deb

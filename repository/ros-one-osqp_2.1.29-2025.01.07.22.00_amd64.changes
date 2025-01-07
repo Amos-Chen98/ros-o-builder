@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-osqp
+Binary: ros-one-osqp
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.29-2025.01.07.22.00
+Distribution: sid
+Urgency: high
+Maintainer: Moju Zhao <chou@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Moju Zhao <chou@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-osqp - ROS wrapper for OSQP
+Changes:
+ ros-one-osqp (2.1.29-2025.01.07.22.00) sid; urgency=high
+Checksums-Sha1:
+ a8f6a3dcf5bca08ceb5c9a3d14bfc2f61b34fc9d 7004 ros-one-osqp_2.1.29-2025.01.07.22.00_amd64.buildinfo
+ fb3302657d50ee31af98c12ece43feab568522f6 2840 ros-one-osqp_2.1.29-2025.01.07.22.00_amd64.deb
+Checksums-Sha256:
+ 6dde438d62b18b020c5d0c7bd1217e46763cf1ce08724204eec73ef8ac493342 7004 ros-one-osqp_2.1.29-2025.01.07.22.00_amd64.buildinfo
+ ae967d7bf1a8b40d1e04cb4899257b8cd6c95c53d7898340f9f263fba7e8650e 2840 ros-one-osqp_2.1.29-2025.01.07.22.00_amd64.deb
+Files:
+ 59a3fe62a73b3d6c56425eb69ac9ade0 7004 misc optional ros-one-osqp_2.1.29-2025.01.07.22.00_amd64.buildinfo
+ 1ebcdefbd4aad5c6a5cde54a99691bb2 2840 misc optional ros-one-osqp_2.1.29-2025.01.07.22.00_amd64.deb

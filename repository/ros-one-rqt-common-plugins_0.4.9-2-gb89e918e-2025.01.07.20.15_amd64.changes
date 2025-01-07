@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 14 May 2020 00:00:00 -0000
+Source: ros-one-rqt-common-plugins
+Binary: ros-one-rqt-common-plugins
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.9-2-gb89e918e-2025.01.07.20.15
+Distribution: sid
+Urgency: high
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Changed-By: Geoffrey Biggs <geoff@openrobotics.org>
+Description:
+ ros-one-rqt-common-plugins - rqt_common_plugins metapackage provides ROS backend graphical too
+Changes:
+ ros-one-rqt-common-plugins (0.4.9-2-gb89e918e-2025.01.07.20.15) sid; urgency=high
+ .
+   * Bump CMake version to avoid CMP0048 warning (#459 <https://github.com/ros-visualization/rqt_common_plugins/issues/459>)
+   * convert to package format 2 (#455 <https://github.com/ros-visualization/rqt_common_plugins/issues/455>)
+   * Contributors: Alejandro Hernández Cordero, Mikael Arguedas
+Checksums-Sha1:
+ 35f1a31aad4c62765551548c484007be3ceb4397 7118 ros-one-rqt-common-plugins_0.4.9-2-gb89e918e-2025.01.07.20.15_amd64.buildinfo
+ 6b6a0af29167b2afbe847abe4ad26fb058dbcc05 3780 ros-one-rqt-common-plugins_0.4.9-2-gb89e918e-2025.01.07.20.15_amd64.deb
+Checksums-Sha256:
+ 819b1afb1859f82388c54a9f593295a2eebefe41347f6b5570edd34443a4efb4 7118 ros-one-rqt-common-plugins_0.4.9-2-gb89e918e-2025.01.07.20.15_amd64.buildinfo
+ 72d4bf5401cf8779e84ab6f0894a427d402a8333b926099648558ac4c4655275 3780 ros-one-rqt-common-plugins_0.4.9-2-gb89e918e-2025.01.07.20.15_amd64.deb
+Files:
+ 48268e3783a9b9c44fe85c82cdd69f2a 7118 misc optional ros-one-rqt-common-plugins_0.4.9-2-gb89e918e-2025.01.07.20.15_amd64.buildinfo
+ 7b1b11944e3afb9cef1db9272363bf0a 3780 misc optional ros-one-rqt-common-plugins_0.4.9-2-gb89e918e-2025.01.07.20.15_amd64.deb

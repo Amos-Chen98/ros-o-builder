@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-slic
+Binary: ros-one-slic
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.29-2025.01.07.22.29
+Distribution: sid
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-slic - SLIC-Superpizel ROS Wrapper This file contains the class elements
+Changes:
+ ros-one-slic (2.1.29-2025.01.07.22.29) sid; urgency=high
+Checksums-Sha1:
+ 0db976b766bcc7bae6d12fa966392babc5e4db18 18049 ros-one-slic_2.1.29-2025.01.07.22.29_amd64.buildinfo
+ 036850f0e079bb62e901f01c38b7e70737924694 3128 ros-one-slic_2.1.29-2025.01.07.22.29_amd64.deb
+Checksums-Sha256:
+ 87122c6badb004d057d251b43777376989af964eac083d6b3faac359a3b4a86a 18049 ros-one-slic_2.1.29-2025.01.07.22.29_amd64.buildinfo
+ f56b4681a51d80bb7f50279cf71ea0a586a6e69e80c7757080c9a46a381a4dbe 3128 ros-one-slic_2.1.29-2025.01.07.22.29_amd64.deb
+Files:
+ 74110306db00283a168966a4f954f5d7 18049 misc optional ros-one-slic_2.1.29-2025.01.07.22.29_amd64.buildinfo
+ cfcb98689af1d20014fd0b4953e835a8 3128 misc optional ros-one-slic_2.1.29-2025.01.07.22.29_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 13 Sep 2024 00:00:00 -0000
+Source: ros-one-rosbag-storage
+Binary: ros-one-rosbag-storage ros-one-rosbag-storage-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-12-g2a12474fb-2025.01.07.14.58
+Distribution: sid
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rosbag-storage - This is a set of tools for recording from and playing back ROS me
+Changes:
+ ros-one-rosbag-storage (1.17.0-12-g2a12474fb-2025.01.07.14.58) sid; urgency=high
+ .
+   * Fix segfault with default-constructed rosbag::ChunkedFile::swap (#2363 <https://github.com/ros/ros_comm/issues/2363>)
+   * Contributors: Hugal31
+Checksums-Sha1:
+ 88b55dcd49bea546696d8792e5d73d32d29e4664 3735040 ros-one-rosbag-storage-dbgsym_1.17.0-12-g2a12474fb-2025.01.07.14.58_amd64.deb
+ 3ad0187ca5f61b6f4aee95513c774a3f2d923051 14055 ros-one-rosbag-storage_1.17.0-12-g2a12474fb-2025.01.07.14.58_amd64.buildinfo
+ 3f263bb0adfb326ca8a280cb9d959abe1d5b48ae 185736 ros-one-rosbag-storage_1.17.0-12-g2a12474fb-2025.01.07.14.58_amd64.deb
+Checksums-Sha256:
+ 0ab2f14f55ed238a7b2a993dc1aed6cfc54795c6636efb9147b3d8442f7d0df4 3735040 ros-one-rosbag-storage-dbgsym_1.17.0-12-g2a12474fb-2025.01.07.14.58_amd64.deb
+ 57c5b3307565e08fcd8727e68817a65ccfcc36d360652054402814763793fd2d 14055 ros-one-rosbag-storage_1.17.0-12-g2a12474fb-2025.01.07.14.58_amd64.buildinfo
+ 4588d841230eb54917723091edae683ab70fc59b352133585a2bd53cab815f88 185736 ros-one-rosbag-storage_1.17.0-12-g2a12474fb-2025.01.07.14.58_amd64.deb
+Files:
+ 828fcab2e6805cd3119d2186ce0748a5 3735040 debug optional ros-one-rosbag-storage-dbgsym_1.17.0-12-g2a12474fb-2025.01.07.14.58_amd64.deb
+ f89cd0c2c22fad8ac03c1e1a38658943 14055 misc optional ros-one-rosbag-storage_1.17.0-12-g2a12474fb-2025.01.07.14.58_amd64.buildinfo
+ 42f8d370b68b685ae01b5b6c9c8a134b 185736 misc optional ros-one-rosbag-storage_1.17.0-12-g2a12474fb-2025.01.07.14.58_amd64.deb

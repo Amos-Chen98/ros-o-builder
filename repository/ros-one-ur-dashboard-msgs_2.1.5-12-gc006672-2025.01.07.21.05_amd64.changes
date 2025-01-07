@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 17 Jun 2024 00:00:00 -0000
+Source: ros-one-ur-dashboard-msgs
+Binary: ros-one-ur-dashboard-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.5-12-gc006672-2025.01.07.21.05
+Distribution: sid
+Urgency: high
+Maintainer: Felix Exner <feex@universal-robots.com>
+Changed-By: Felix Exner <feex@universal-robots.com>
+Description:
+ ros-one-ur-dashboard-msgs - Messages around the UR Dashboard server.
+Changes:
+ ros-one-ur-dashboard-msgs (2.1.5-12-gc006672-2025.01.07.21.05) sid; urgency=high
+Checksums-Sha1:
+ cf2d2d13cfcacb3c27029c7d37ba2ab759baeebb 8655 ros-one-ur-dashboard-msgs_2.1.5-12-gc006672-2025.01.07.21.05_amd64.buildinfo
+ 7c8130cac075b8d7721675235088946b99d622eb 76256 ros-one-ur-dashboard-msgs_2.1.5-12-gc006672-2025.01.07.21.05_amd64.deb
+Checksums-Sha256:
+ e2dda7c25ea39c547f69cbb8c9cc9b504fabd98aa692644865060e5399a1a467 8655 ros-one-ur-dashboard-msgs_2.1.5-12-gc006672-2025.01.07.21.05_amd64.buildinfo
+ 2e51027f71a283f14aa67eb31469a4598af1bb5c17c4e45cf76f039da7124fe0 76256 ros-one-ur-dashboard-msgs_2.1.5-12-gc006672-2025.01.07.21.05_amd64.deb
+Files:
+ c059c229e6641187866a8631acd8698c 8655 misc optional ros-one-ur-dashboard-msgs_2.1.5-12-gc006672-2025.01.07.21.05_amd64.buildinfo
+ 81b2bf0437f06acbfe63934379258bc1 76256 misc optional ros-one-ur-dashboard-msgs_2.1.5-12-gc006672-2025.01.07.21.05_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Thu, 20 May 2021 00:00:00 -0000
+Source: ros-one-ocean-battery-driver
+Binary: ros-one-ocean-battery-driver ros-one-ocean-battery-driver-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.10-5-gc7f225d-2025.01.07.17.20
+Distribution: sid
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-ocean-battery-driver - This is an interface to the Ocean Server Technology Intelligent B
+Changes:
+ ros-one-ocean-battery-driver (1.1.10-5-gc7f225d-2025.01.07.17.20) sid; urgency=high
+ .
+   * fixes for boost dependencies
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ e3f2462bf2c77b7908b55765705ed04fd1f411e2 1324044 ros-one-ocean-battery-driver-dbgsym_1.1.10-5-gc7f225d-2025.01.07.17.20_amd64.deb
+ f0152ca8688c1efb402faaaef7d89f582ec5f432 10442 ros-one-ocean-battery-driver_1.1.10-5-gc7f225d-2025.01.07.17.20_amd64.buildinfo
+ 3a8170abbc625309bc2971be7d5bce26642b777d 98080 ros-one-ocean-battery-driver_1.1.10-5-gc7f225d-2025.01.07.17.20_amd64.deb
+Checksums-Sha256:
+ d7d0cf163448555cdd7fa0c03a94b7e6f9a0525350f309ff0a7830c3fc3a9d5a 1324044 ros-one-ocean-battery-driver-dbgsym_1.1.10-5-gc7f225d-2025.01.07.17.20_amd64.deb
+ cda7101edfbf7c36429e8169bdae1eef0c8e473d06192f099e414f2ce0ee7fe4 10442 ros-one-ocean-battery-driver_1.1.10-5-gc7f225d-2025.01.07.17.20_amd64.buildinfo
+ 2a70741f5a30563eddd63c2a8801a2d4b78012d0186360c26c07bd5f8a5136f4 98080 ros-one-ocean-battery-driver_1.1.10-5-gc7f225d-2025.01.07.17.20_amd64.deb
+Files:
+ 270929724ea8b98f486cceae54738632 1324044 debug optional ros-one-ocean-battery-driver-dbgsym_1.1.10-5-gc7f225d-2025.01.07.17.20_amd64.deb
+ ffa899cb376cde2fe13c97e6bdbdd34e 10442 misc optional ros-one-ocean-battery-driver_1.1.10-5-gc7f225d-2025.01.07.17.20_amd64.buildinfo
+ 5294cecc78b9db81f2ca45bcab45c639 98080 misc optional ros-one-ocean-battery-driver_1.1.10-5-gc7f225d-2025.01.07.17.20_amd64.deb

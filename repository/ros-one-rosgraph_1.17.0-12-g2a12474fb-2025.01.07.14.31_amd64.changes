@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 13 Sep 2024 00:00:00 -0000
+Source: ros-one-rosgraph
+Binary: ros-one-rosgraph
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-12-g2a12474fb-2025.01.07.14.31
+Distribution: sid
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rosgraph - rosgraph contains the rosgraph command-line tool, which prints in
+Changes:
+ ros-one-rosgraph (1.17.0-12-g2a12474fb-2025.01.07.14.31) sid; urgency=high
+ .
+   * Fixed ROSCONSOLE_FORMAT with microseconds (#2370 <https://github.com/ros/ros_comm/issues/2370>)
+   * Contributors: Martin Pecka
+Checksums-Sha1:
+ 2f42be595a5d8082f35647b15db2bf9e9731a1dc 7178 ros-one-rosgraph_1.17.0-12-g2a12474fb-2025.01.07.14.31_amd64.buildinfo
+ 81579f4f31400e6f4e9f047bae628933f88a803d 62204 ros-one-rosgraph_1.17.0-12-g2a12474fb-2025.01.07.14.31_amd64.deb
+Checksums-Sha256:
+ 628eb3f5ae43de6d0764c95992a750b6b6b5728427154915c216043f72bcf3cc 7178 ros-one-rosgraph_1.17.0-12-g2a12474fb-2025.01.07.14.31_amd64.buildinfo
+ 09a563934906247e20e39fc355e21a6a844220f1658a0edf416f6d03d6795620 62204 ros-one-rosgraph_1.17.0-12-g2a12474fb-2025.01.07.14.31_amd64.deb
+Files:
+ ba9553e30c819c8ab5f85f239b47cc75 7178 misc optional ros-one-rosgraph_1.17.0-12-g2a12474fb-2025.01.07.14.31_amd64.buildinfo
+ 282ee72fc19ab55f339246d7666c7df0 62204 misc optional ros-one-rosgraph_1.17.0-12-g2a12474fb-2025.01.07.14.31_amd64.deb

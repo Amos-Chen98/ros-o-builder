@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Mon, 25 Nov 2024 00:00:00 -0000
+Source: ros-one-ur-client-library
+Binary: ros-one-ur-client-library ros-one-ur-client-library-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.5.0-11-g6bc1553-2025.01.07.13.07
+Distribution: sid
+Urgency: high
+Maintainer: Felix Exner <feex@universal-robots.com>
+Changed-By: Felix Exner <feex@universal-robots.com>
+Description:
+ ros-one-ur-client-library - Standalone C++ library for accessing Universal Robots interfaces.
+Changes:
+ ros-one-ur-client-library (1.5.0-11-g6bc1553-2025.01.07.13.07) sid; urgency=high
+ .
+   * Adapt RTDE output recipe based on robot response (#221 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/221>)
+   * CI: Fix flaky example runs (#223 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/223>)
+   * Giving force mode parameters as arguments when calling startForceMode (#208 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/208>)
+   * Add more arguments to start_ursim.sh (#220 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/220>)
+   * Tcp socket improvements (#222 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/222>)
+   * Added family photo to readme (#219 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/219>)
+   * Add missing algorithm include (#214 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/214>)
+   * Added missing RTDE data packages and fixed incorrect names (#213 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/213>)
+   * Contributors: Felix Exner, Remi Siffert, URJala
+Checksums-Sha1:
+ c9f6df96661499beff4b2e97942e3dd2df0ca9d6 2920012 ros-one-ur-client-library-dbgsym_1.5.0-11-g6bc1553-2025.01.07.13.07_amd64.deb
+ 6bbe335dbd27ae87be898ab27ee6b9b1edd93a4f 6277 ros-one-ur-client-library_1.5.0-11-g6bc1553-2025.01.07.13.07_amd64.buildinfo
+ d2c08f813eae2299b71b4454402e8ed58749bcf3 243688 ros-one-ur-client-library_1.5.0-11-g6bc1553-2025.01.07.13.07_amd64.deb
+Checksums-Sha256:
+ 5da632847dcbb7ffdeb1ca3ca23e793a796f1dee2592eb9558d2025c380269d7 2920012 ros-one-ur-client-library-dbgsym_1.5.0-11-g6bc1553-2025.01.07.13.07_amd64.deb
+ 12fd09a9647257a1dbf272d0afc0574bb35f19df5b050ae83663698b6f42a9cc 6277 ros-one-ur-client-library_1.5.0-11-g6bc1553-2025.01.07.13.07_amd64.buildinfo
+ b02731b86624e062832901bf035d953bda68853655d46cfd0d9cb9f843a30357 243688 ros-one-ur-client-library_1.5.0-11-g6bc1553-2025.01.07.13.07_amd64.deb
+Files:
+ 98b24ffef4de4e500b4e9d4296eb694b 2920012 debug optional ros-one-ur-client-library-dbgsym_1.5.0-11-g6bc1553-2025.01.07.13.07_amd64.deb
+ 03dc132e28438f12af4c37a4b1c94cf2 6277 misc optional ros-one-ur-client-library_1.5.0-11-g6bc1553-2025.01.07.13.07_amd64.buildinfo
+ f8da7a886287360a14728c4b17397f1f 243688 misc optional ros-one-ur-client-library_1.5.0-11-g6bc1553-2025.01.07.13.07_amd64.deb

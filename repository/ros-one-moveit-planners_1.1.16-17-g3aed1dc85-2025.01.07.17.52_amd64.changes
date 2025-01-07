@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-planners
+Binary: ros-one-moveit-planners
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.16-17-g3aed1dc85-2025.01.07.17.52
+Distribution: sid
+Urgency: high
+Maintainer: Dave Coleman <dave@picknik.ai>
+Changed-By: Dave Coleman <dave@picknik.ai>
+Description:
+ ros-one-moveit-planners - Metapacakge that installs all available planners for MoveIt
+Changes:
+ ros-one-moveit-planners (1.1.16-17-g3aed1dc85-2025.01.07.17.52) sid; urgency=high
+Checksums-Sha1:
+ 07da2a7146c08ae1b2b964c52db9442148031f43 7115 ros-one-moveit-planners_1.1.16-17-g3aed1dc85-2025.01.07.17.52_amd64.buildinfo
+ cdd4a8abf719be50bf6a82ed4edb01642f580b6f 3068 ros-one-moveit-planners_1.1.16-17-g3aed1dc85-2025.01.07.17.52_amd64.deb
+Checksums-Sha256:
+ c8a0a259962c76e2154017766fe5172973d8ca7334acccc20474948ed4665263 7115 ros-one-moveit-planners_1.1.16-17-g3aed1dc85-2025.01.07.17.52_amd64.buildinfo
+ ccc1d2e61b88e9c46512c3e336209855c6b38a40160130414c02a88a34fb6610 3068 ros-one-moveit-planners_1.1.16-17-g3aed1dc85-2025.01.07.17.52_amd64.deb
+Files:
+ 4a8b7fd2b39ebbd156aa643372e8cc05 7115 misc optional ros-one-moveit-planners_1.1.16-17-g3aed1dc85-2025.01.07.17.52_amd64.buildinfo
+ cb43f50dd7676c743bc89835aed3f0a9 3068 misc optional ros-one-moveit-planners_1.1.16-17-g3aed1dc85-2025.01.07.17.52_amd64.deb

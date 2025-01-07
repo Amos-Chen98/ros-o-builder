@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 03 Dec 2024 00:00:00 -0000
+Source: ros-one-ros-industrial-cmake-boilerplate
+Binary: ros-one-ros-industrial-cmake-boilerplate
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.6.3-2025.01.07.13.07
+Distribution: sid
+Urgency: high
+Maintainer: Levi Armstrong <levi.armstrong@gmail.com>
+Changed-By: Levi Armstrong <levi.armstrong@gmail.com>
+Description:
+ ros-one-ros-industrial-cmake-boilerplate - Contains boilerplate cmake script, macros and utils
+Changes:
+ ros-one-ros-industrial-cmake-boilerplate (0.6.3-2025.01.07.13.07) sid; urgency=high
+ .
+   * Update install_targets to leverage cmake install dir variables so they may be overriden
+   * Contributors: Levi Armstrong
+Checksums-Sha1:
+ 3abde2736a18a2904dff971bb392d9fc1ce9fe44 5868 ros-one-ros-industrial-cmake-boilerplate_0.6.3-2025.01.07.13.07_amd64.buildinfo
+ 493e89d022e1d33eb1f461b9793a6fc24f83bbe5 26416 ros-one-ros-industrial-cmake-boilerplate_0.6.3-2025.01.07.13.07_amd64.deb
+Checksums-Sha256:
+ 01e9610c02e25aa56f83d97f10bcc43e0d054203ecdad6e35f9d387c551cf4e8 5868 ros-one-ros-industrial-cmake-boilerplate_0.6.3-2025.01.07.13.07_amd64.buildinfo
+ 56efdca841e21e4c58e427a754299ac15a4d37b0a1a07ddcb4fe1f8b490c8c01 26416 ros-one-ros-industrial-cmake-boilerplate_0.6.3-2025.01.07.13.07_amd64.deb
+Files:
+ 39bf9c583d8cc5f6deccf7faeca5240f 5868 misc optional ros-one-ros-industrial-cmake-boilerplate_0.6.3-2025.01.07.13.07_amd64.buildinfo
+ 8a19ee9c5451ce37e25846d6210defcd 26416 misc optional ros-one-ros-industrial-cmake-boilerplate_0.6.3-2025.01.07.13.07_amd64.deb

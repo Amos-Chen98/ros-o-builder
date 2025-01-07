@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 07 Jun 2022 00:00:00 -0000
+Source: ros-one-audio-video-recorder
+Binary: ros-one-audio-video-recorder ros-one-audio-video-recorder-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.2.12-185-g1ddd7669-2025.01.07.20.01
+Distribution: sid
+Urgency: high
+Maintainer: Shingo Kitagawa <shingogo.5511@gmail.com>
+Changed-By: Shingo Kitagawa <shingogo.5511@gmail.com>
+Description:
+ ros-one-audio-video-recorder - ROS package for recording image and audio synchronously
+Changes:
+ ros-one-audio-video-recorder (2.2.12-185-g1ddd7669-2025.01.07.20.01) sid; urgency=high
+ .
+   * add audio_video_recorder (#1672 <https://github.com/jsk-ros-pkg/jsk_common/issues/1672>)
+   * Contributors: Shingo Kitagawa
+Checksums-Sha1:
+ e5903fe866b752fb060457e0da90402a69708d14 589204 ros-one-audio-video-recorder-dbgsym_2.2.12-185-g1ddd7669-2025.01.07.20.01_amd64.deb
+ 69ae4dfa90531ff6ea6d8fc0976685caf31de9a5 13755 ros-one-audio-video-recorder_2.2.12-185-g1ddd7669-2025.01.07.20.01_amd64.buildinfo
+ f3161e390c851319b070b6a3c60b6a298f49063b 49180 ros-one-audio-video-recorder_2.2.12-185-g1ddd7669-2025.01.07.20.01_amd64.deb
+Checksums-Sha256:
+ 2c448900c9f555340904891158420dc86720bec01545ab45bc8f1dd0fad1c309 589204 ros-one-audio-video-recorder-dbgsym_2.2.12-185-g1ddd7669-2025.01.07.20.01_amd64.deb
+ 466ffcf708a4eae49106bd15a8315a78a48d7357e139b8715d36733bdeef4f6a 13755 ros-one-audio-video-recorder_2.2.12-185-g1ddd7669-2025.01.07.20.01_amd64.buildinfo
+ 31f7b0aebf7a30cd1960186601ffdd407942934cd91a22ad0063083e9ecdb35d 49180 ros-one-audio-video-recorder_2.2.12-185-g1ddd7669-2025.01.07.20.01_amd64.deb
+Files:
+ 657604685b198117f4ee49ad938f3756 589204 debug optional ros-one-audio-video-recorder-dbgsym_2.2.12-185-g1ddd7669-2025.01.07.20.01_amd64.deb
+ 66b62f58e04fe3e3f12bd1d8e19a8eab 13755 misc optional ros-one-audio-video-recorder_2.2.12-185-g1ddd7669-2025.01.07.20.01_amd64.buildinfo
+ 02dbbbf4918f5c98d91e1c5b1a382864 49180 misc optional ros-one-audio-video-recorder_2.2.12-185-g1ddd7669-2025.01.07.20.01_amd64.deb

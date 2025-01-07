@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 05 May 2021 00:00:00 -0000
+Source: ros-one-trac-ik
+Binary: ros-one-trac-ik
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.01.07.19.34
+Distribution: sid
+Urgency: high
+Maintainer: TRACLabs Robotics <robotics@traclabs.com>
+Changed-By: TRACLabs Robotics <robotics@traclabs.com>
+Description:
+ ros-one-trac-ik - The ROS packages in this repository were created to provide an im
+Changes:
+ ros-one-trac-ik (0-2025.01.07.19.34) sid; urgency=high
+Checksums-Sha1:
+ 6641bc33db7a42df5ffda3fe8f2e5536081901f2 6999 ros-one-trac-ik_0-2025.01.07.19.34_amd64.buildinfo
+ aec3f58892f7ab79ac493a933c90bde45277fe82 4820 ros-one-trac-ik_0-2025.01.07.19.34_amd64.deb
+Checksums-Sha256:
+ 667942623efe27fb72f0581a4aa377dec438ba7c54ea8c904c9033f615108923 6999 ros-one-trac-ik_0-2025.01.07.19.34_amd64.buildinfo
+ b86797cb7827a4eb85c4f3b69fe52c1d7c0cf0d9e1d7a9237f4cdc2e4d18daa4 4820 ros-one-trac-ik_0-2025.01.07.19.34_amd64.deb
+Files:
+ f7d6780113d454f61104e8785ec2a089 6999 misc optional ros-one-trac-ik_0-2025.01.07.19.34_amd64.buildinfo
+ c4f90e93f6c56e4bdb1d16cf9d7cb6f9 4820 misc optional ros-one-trac-ik_0-2025.01.07.19.34_amd64.deb

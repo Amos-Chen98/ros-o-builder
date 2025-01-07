@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 20 Dec 2024 00:00:00 -0000
+Source: ros-one-xacro
+Binary: ros-one-xacro
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.14.19-2025.01.07.15.52
+Distribution: sid
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-xacro - Xacro (XML Macros) Xacro is an XML macro language.
+Changes:
+ ros-one-xacro (1.14.19-2025.01.07.15.52) sid; urgency=high
+ .
+   * Add function python.vars() (#348 <https://github.com/ros/xacro/issues/348>)
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ 5f8929b292442a8973a39a401345c208448b3206 7073 ros-one-xacro_1.14.19-2025.01.07.15.52_amd64.buildinfo
+ db8b17c13490588cce3651254f0ed97014e241eb 61436 ros-one-xacro_1.14.19-2025.01.07.15.52_amd64.deb
+Checksums-Sha256:
+ 0e652b3d81a544e1748ae061da037c81a2cf76ef1fa850bd2187d85adff001d7 7073 ros-one-xacro_1.14.19-2025.01.07.15.52_amd64.buildinfo
+ 3f1e97ae92705fde35a23fa637af01520112e6b4ea09a1ec6d6d26af1d7774f8 61436 ros-one-xacro_1.14.19-2025.01.07.15.52_amd64.deb
+Files:
+ 49bc264419fb4fe767ebc3f62ef6b85c 7073 misc optional ros-one-xacro_1.14.19-2025.01.07.15.52_amd64.buildinfo
+ 06ba5eeb1fc634c7f0028d221e8bade3 61436 misc optional ros-one-xacro_1.14.19-2025.01.07.15.52_amd64.deb

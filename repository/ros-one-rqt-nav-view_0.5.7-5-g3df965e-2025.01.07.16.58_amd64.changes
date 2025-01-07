@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 26 Apr 2017 00:00:00 -0000
+Source: ros-one-rqt-nav-view
+Binary: ros-one-rqt-nav-view
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.7-5-g3df965e-2025.01.07.16.58
+Distribution: sid
+Urgency: high
+Maintainer: Aaron Blasdel <ablasdel@gmail.com>
+Changed-By: Aaron Blasdel <ablasdel@gmail.com>
+Description:
+ ros-one-rqt-nav-view - rqt_nav_view provides a gui for viewing navigation maps and paths
+Changes:
+ ros-one-rqt-nav-view (0.5.7-5-g3df965e-2025.01.07.16.58) sid; urgency=high
+Checksums-Sha1:
+ c8e112ae51e06539ec745dc6dc8e4601f3820cda 7087 ros-one-rqt-nav-view_0.5.7-5-g3df965e-2025.01.07.16.58_amd64.buildinfo
+ 49b8a0421fb766d11f35b5610c247911240c0006 25836 ros-one-rqt-nav-view_0.5.7-5-g3df965e-2025.01.07.16.58_amd64.deb
+Checksums-Sha256:
+ f013af984785f0828935988eab36e094f74d3a823d9fc4588d20f1153b1e00d2 7087 ros-one-rqt-nav-view_0.5.7-5-g3df965e-2025.01.07.16.58_amd64.buildinfo
+ bdc0f7171dc957267080363ba7e969e83195ab67c6bfbbabc3fa378d67e8d774 25836 ros-one-rqt-nav-view_0.5.7-5-g3df965e-2025.01.07.16.58_amd64.deb
+Files:
+ ce19662364b8ac58945db1c0c7786abc 7087 misc optional ros-one-rqt-nav-view_0.5.7-5-g3df965e-2025.01.07.16.58_amd64.buildinfo
+ e8b000f411af30151c93043144c1fc97 25836 misc optional ros-one-rqt-nav-view_0.5.7-5-g3df965e-2025.01.07.16.58_amd64.deb

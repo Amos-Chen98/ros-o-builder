@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 21 May 2020 00:00:00 -0000
+Source: ros-one-pluginlib
+Binary: ros-one-pluginlib
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.13.0-2-g51a2cb0-2025.01.07.14.16
+Distribution: sid
+Urgency: high
+Maintainer: Steven! Ragnarök <stevenragnarok@osrfoundation.org>
+Changed-By: Steven! Ragnarök <stevenragnarok@osrfoundation.org>
+Description:
+ ros-one-pluginlib - The pluginlib package provides tools for writing and dynamically
+Changes:
+ ros-one-pluginlib (1.13.0-2-g51a2cb0-2025.01.07.14.16) sid; urgency=high
+ .
+   * Declare specific boost dependencies (#171 <https://github.com/ros/pluginlib/issues/171>)
+   * Contributors: Mikael Arguedas
+Checksums-Sha1:
+ f65f71ee98d829c0fe8550b3157cf8e6531be9ec 11646 ros-one-pluginlib_1.13.0-2-g51a2cb0-2025.01.07.14.16_amd64.buildinfo
+ 83e906a0a806f34bc65a7ee2a381487b36c68853 22344 ros-one-pluginlib_1.13.0-2-g51a2cb0-2025.01.07.14.16_amd64.deb
+Checksums-Sha256:
+ 94094e121ca3c0c347f20681189a4ba13142268c9473b7377790558dcefe8606 11646 ros-one-pluginlib_1.13.0-2-g51a2cb0-2025.01.07.14.16_amd64.buildinfo
+ bceb36b99628d25d682bb2ff550bd44cf21c8281c225ea97dbaedb1452d0ab11 22344 ros-one-pluginlib_1.13.0-2-g51a2cb0-2025.01.07.14.16_amd64.deb
+Files:
+ 3893b61d7339a95d6f88aed30b5cfb5f 11646 misc optional ros-one-pluginlib_1.13.0-2-g51a2cb0-2025.01.07.14.16_amd64.buildinfo
+ d4f92baa3a1c2f41b73aa343fc1f0374 22344 misc optional ros-one-pluginlib_1.13.0-2-g51a2cb0-2025.01.07.14.16_amd64.deb

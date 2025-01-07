@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 07 Aug 2018 00:00:00 -0000
+Source: ros-one-urg-c
+Binary: ros-one-urg-c ros-one-urg-c-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.0.405-1-gbbe007f-2025.01.07.13.06
+Distribution: sid
+Urgency: high
+Maintainer: Chad Rockey <chadrockey@gmail.com>
+Changed-By: Chad Rockey <chadrockey@gmail.com>
+Description:
+ ros-one-urg-c - The urg_c package
+Changes:
+ ros-one-urg-c (1.0.405-1-gbbe007f-2025.01.07.13.06) sid; urgency=high
+ .
+   * pass *pointer to* system timestamp, sync issue on quit
+   * Adding new maintainer.
+   * Contributors: Tony Baltovski, knickels
+Checksums-Sha1:
+ 3405bfcf89204184a80146c333b91c1f527c8532 87248 ros-one-urg-c-dbgsym_1.0.405-1-gbbe007f-2025.01.07.13.06_amd64.deb
+ cc5934b4655f2c6e3d533d944b0171498e8b4e1f 7537 ros-one-urg-c_1.0.405-1-gbbe007f-2025.01.07.13.06_amd64.buildinfo
+ 762edc698171c253a989ea8c1cc4235b17064e60 40396 ros-one-urg-c_1.0.405-1-gbbe007f-2025.01.07.13.06_amd64.deb
+Checksums-Sha256:
+ 9bb4fb1f7688f716374d74fb577456ee4d4aed25d1f494c9870e943c947e6fd4 87248 ros-one-urg-c-dbgsym_1.0.405-1-gbbe007f-2025.01.07.13.06_amd64.deb
+ 41d7ef8dde592fc3722f8092de130495d7c676367219dc5b230ed16f91a04c89 7537 ros-one-urg-c_1.0.405-1-gbbe007f-2025.01.07.13.06_amd64.buildinfo
+ 36452fac687961a0876a7dbc1d5ed7600720411973be4924cdb22fee456f5c96 40396 ros-one-urg-c_1.0.405-1-gbbe007f-2025.01.07.13.06_amd64.deb
+Files:
+ 32a90dc2bf149cd02e1c6ed99883fd89 87248 debug optional ros-one-urg-c-dbgsym_1.0.405-1-gbbe007f-2025.01.07.13.06_amd64.deb
+ 6f851de117d770aa1098c8ec7f6b3cf4 7537 misc optional ros-one-urg-c_1.0.405-1-gbbe007f-2025.01.07.13.06_amd64.buildinfo
+ 11a25cd0644dfde3060786310e6b7fe1 40396 misc optional ros-one-urg-c_1.0.405-1-gbbe007f-2025.01.07.13.06_amd64.deb

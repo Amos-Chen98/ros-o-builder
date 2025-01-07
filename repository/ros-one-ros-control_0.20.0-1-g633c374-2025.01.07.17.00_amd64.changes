@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 27 Oct 2023 00:00:00 -0000
+Source: ros-one-ros-control
+Binary: ros-one-ros-control
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.20.0-1-g633c374-2025.01.07.17.00
+Distribution: sid
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-ros-control - A set of packages that include controller interfaces, controller
+Changes:
+ ros-one-ros-control (0.20.0-1-g633c374-2025.01.07.17.00) sid; urgency=high
+Checksums-Sha1:
+ 27740e9de8634ae69daf9ffb51016cbdcb2775ea 7083 ros-one-ros-control_0.20.0-1-g633c374-2025.01.07.17.00_amd64.buildinfo
+ 785ac7e7d3b4ed4681a380199b0a1515d3c8556d 3620 ros-one-ros-control_0.20.0-1-g633c374-2025.01.07.17.00_amd64.deb
+Checksums-Sha256:
+ b393fee33a6165b85d85d8238b25601bfc0aafffda7ccba5ca8673d60e5b2dd0 7083 ros-one-ros-control_0.20.0-1-g633c374-2025.01.07.17.00_amd64.buildinfo
+ 84d27fb22047b5e23d011eafc070ccf187c6265d99f65787c5ab566c2461d63b 3620 ros-one-ros-control_0.20.0-1-g633c374-2025.01.07.17.00_amd64.deb
+Files:
+ c90fec1d149f92a83e12879ffb4c0eb2 7083 misc optional ros-one-ros-control_0.20.0-1-g633c374-2025.01.07.17.00_amd64.buildinfo
+ 3d1e15ba5a55eca0e714f351571bef03 3620 misc optional ros-one-ros-control_0.20.0-1-g633c374-2025.01.07.17.00_amd64.deb

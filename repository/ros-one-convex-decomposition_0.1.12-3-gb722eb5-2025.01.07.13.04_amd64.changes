@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Fri, 07 Sep 2018 00:00:00 -0000
+Source: ros-one-convex-decomposition
+Binary: ros-one-convex-decomposition ros-one-convex-decomposition-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.1.12-3-gb722eb5-2025.01.07.13.04
+Distribution: sid
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-convex-decomposition - Convex Decomposition Tool for Robot Model
+Changes:
+ ros-one-convex-decomposition (0.1.12-3-gb722eb5-2025.01.07.13.04) sid; urgency=high
+ .
+   * Merge pull request #8 <https://github.com/ros/convex_decomposition/issues/8> from k-okada/add_travis
+     update travis.yml
+   * Change maintainer to ROS Orphaned Package
+   * update travis.yml
+   * mv readme to README.md
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 70933137aca5d2de994245b0e55756204b3de28f 429480 ros-one-convex-decomposition-dbgsym_0.1.12-3-gb722eb5-2025.01.07.13.04_amd64.deb
+ 19af7958c3416f253f374991f5c9c2bf40b90160 7687 ros-one-convex-decomposition_0.1.12-3-gb722eb5-2025.01.07.13.04_amd64.buildinfo
+ cae829ca352652df2952687f83e9ac2c165aa374 70988 ros-one-convex-decomposition_0.1.12-3-gb722eb5-2025.01.07.13.04_amd64.deb
+Checksums-Sha256:
+ 42215a164d85e23f7e09bcf4f9689953d7c9dda579193c6ff83934cf6937a041 429480 ros-one-convex-decomposition-dbgsym_0.1.12-3-gb722eb5-2025.01.07.13.04_amd64.deb
+ 58f15ad66078c49ca1b5825a4ed0fa7dec57d9483855455696aba5e3aa788d89 7687 ros-one-convex-decomposition_0.1.12-3-gb722eb5-2025.01.07.13.04_amd64.buildinfo
+ db7531d7606c902ad4a8fa121142db3cc7aa06e14f5f082a83b77c9ae8522d6f 70988 ros-one-convex-decomposition_0.1.12-3-gb722eb5-2025.01.07.13.04_amd64.deb
+Files:
+ 57c43537832f4c16ad619467173051f9 429480 debug optional ros-one-convex-decomposition-dbgsym_0.1.12-3-gb722eb5-2025.01.07.13.04_amd64.deb
+ 9e16c9d48ab64df6a30679a852ff05f2 7687 misc optional ros-one-convex-decomposition_0.1.12-3-gb722eb5-2025.01.07.13.04_amd64.buildinfo
+ a65ad1d93772d87c5d51a168ef580c3a 70988 misc optional ros-one-convex-decomposition_0.1.12-3-gb722eb5-2025.01.07.13.04_amd64.deb

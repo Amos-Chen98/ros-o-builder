@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 22 May 2024 00:00:00 -0000
+Source: ros-one-forward-command-controller
+Binary: ros-one-forward-command-controller
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.22.0-2025.01.07.17.17
+Distribution: sid
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-forward-command-controller - forward_command_controller
+Changes:
+ ros-one-forward-command-controller (0.22.0-2025.01.07.17.17) sid; urgency=high
+Checksums-Sha1:
+ d71d5c7bcf624085185d939ed91ae015362b9c99 12028 ros-one-forward-command-controller_0.22.0-2025.01.07.17.17_amd64.buildinfo
+ 4b5e4fde779810502cc42bbbeb23ae5457052cdf 9224 ros-one-forward-command-controller_0.22.0-2025.01.07.17.17_amd64.deb
+Checksums-Sha256:
+ 5cc424b3473eedc8790aff2be7d2d030a3fbf11137464a1265145891ec1f702a 12028 ros-one-forward-command-controller_0.22.0-2025.01.07.17.17_amd64.buildinfo
+ 983f3877ad371349bbe4695e147e8c3d195c7c781d8f9c3ce2fb874f8c976e1a 9224 ros-one-forward-command-controller_0.22.0-2025.01.07.17.17_amd64.deb
+Files:
+ f8a06c2b24e1928811106c7abbdfb67c 12028 misc optional ros-one-forward-command-controller_0.22.0-2025.01.07.17.17_amd64.buildinfo
+ ebbc93095f04a3aa0643cbea0ff85764 9224 misc optional ros-one-forward-command-controller_0.22.0-2025.01.07.17.17_amd64.deb

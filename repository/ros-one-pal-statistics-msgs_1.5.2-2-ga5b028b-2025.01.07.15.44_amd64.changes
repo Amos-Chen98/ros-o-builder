@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 16 May 2024 00:00:00 -0000
+Source: ros-one-pal-statistics-msgs
+Binary: ros-one-pal-statistics-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.5.2-2-ga5b028b-2025.01.07.15.44
+Distribution: sid
+Urgency: high
+Maintainer: Jordan Palacios <jordan.palacios@pal-robotics.com>
+Changed-By: Jordan Palacios <jordan.palacios@pal-robotics.com>
+Description:
+ ros-one-pal-statistics-msgs - Statistics msgs package
+Changes:
+ ros-one-pal-statistics-msgs (1.5.2-2-ga5b028b-2025.01.07.15.44) sid; urgency=high
+Checksums-Sha1:
+ 4a24b0b3b0a026c536697db0d368b08beed7c49c 9626 ros-one-pal-statistics-msgs_1.5.2-2-ga5b028b-2025.01.07.15.44_amd64.buildinfo
+ 04617ee30e7ea7e2857719e68f155236b68f8473 24444 ros-one-pal-statistics-msgs_1.5.2-2-ga5b028b-2025.01.07.15.44_amd64.deb
+Checksums-Sha256:
+ 5897adc1fbe4c1ebacaeaa8830f2398b86a2c9d3792e64b9e333d72207c8755e 9626 ros-one-pal-statistics-msgs_1.5.2-2-ga5b028b-2025.01.07.15.44_amd64.buildinfo
+ d02e83ee75f294af8bafacaf646de81bf9cb11741b70bbd756f489258f213992 24444 ros-one-pal-statistics-msgs_1.5.2-2-ga5b028b-2025.01.07.15.44_amd64.deb
+Files:
+ 875ca88f1873df7ea28bf7e6a4394aac 9626 misc optional ros-one-pal-statistics-msgs_1.5.2-2-ga5b028b-2025.01.07.15.44_amd64.buildinfo
+ 4b3c4cfe274248091c688de81d3a644b 24444 misc optional ros-one-pal-statistics-msgs_1.5.2-2-ga5b028b-2025.01.07.15.44_amd64.deb

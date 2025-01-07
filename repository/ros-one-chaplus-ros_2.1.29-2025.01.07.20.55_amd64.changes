@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-chaplus-ros
+Binary: ros-one-chaplus-ros
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.29-2025.01.07.20.55
+Distribution: sid
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-chaplus-ros - The ROS package for chaplus service
+Changes:
+ ros-one-chaplus-ros (2.1.29-2025.01.07.20.55) sid; urgency=high
+Checksums-Sha1:
+ a071d3ecca9567290d109876cb5649b595711716 7042 ros-one-chaplus-ros_2.1.29-2025.01.07.20.55_amd64.buildinfo
+ 72d027c2976220355c633bdd5b97b28a659254cf 10484 ros-one-chaplus-ros_2.1.29-2025.01.07.20.55_amd64.deb
+Checksums-Sha256:
+ 9327458eb93fff319a5c9876406fa278ca581c4a14c428fd24c501d5009045c7 7042 ros-one-chaplus-ros_2.1.29-2025.01.07.20.55_amd64.buildinfo
+ 5248e5ca3e48c633158e91c10ffbd706ca215e7e3edbea665bfb4fae15fc470a 10484 ros-one-chaplus-ros_2.1.29-2025.01.07.20.55_amd64.deb
+Files:
+ b53e21e384a57864140c1eac6028048f 7042 misc optional ros-one-chaplus-ros_2.1.29-2025.01.07.20.55_amd64.buildinfo
+ 7afcc519ecbefee86a4e95dc9c733d3f 10484 misc optional ros-one-chaplus-ros_2.1.29-2025.01.07.20.55_amd64.deb

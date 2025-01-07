@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 22 May 2024 00:00:00 -0000
+Source: ros-one-ros-controllers
+Binary: ros-one-ros-controllers
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.22.0-2025.01.07.17.40
+Distribution: sid
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-ros-controllers - Library of ros controllers
+Changes:
+ ros-one-ros-controllers (0.22.0-2025.01.07.17.40) sid; urgency=high
+Checksums-Sha1:
+ ab9ab0be586b0e347c8c93cbe5208effec1b9ad8 7059 ros-one-ros-controllers_0.22.0-2025.01.07.17.40_amd64.buildinfo
+ 1a3cb022349b51e7d956902f387f93933b6bb457 3560 ros-one-ros-controllers_0.22.0-2025.01.07.17.40_amd64.deb
+Checksums-Sha256:
+ 8e33ae1c2d2687b4fca3213d21770100fc0ad646d2044e8d6b5e350e0d3e42ca 7059 ros-one-ros-controllers_0.22.0-2025.01.07.17.40_amd64.buildinfo
+ 8b0e0b8fe57e38aa97d0049b8e4e2aed1511cb09408fbbdae36795d4637c120e 3560 ros-one-ros-controllers_0.22.0-2025.01.07.17.40_amd64.deb
+Files:
+ 70f23ad374bdd1b3a72be962ae240ef2 7059 misc optional ros-one-ros-controllers_0.22.0-2025.01.07.17.40_amd64.buildinfo
+ 72734593ac69e0ee52c3d989f477a9b1 3560 misc optional ros-one-ros-controllers_0.22.0-2025.01.07.17.40_amd64.deb

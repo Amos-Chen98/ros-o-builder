@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 11 Jan 2022 00:00:00 -0000
+Source: ros-one-jsk-visualization
+Binary: ros-one-jsk-visualization
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.8-73-g064068d-2025.01.07.23.19
+Distribution: sid
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-visualization - Metapackage that contains visualization package for jsk-ros-pkg
+Changes:
+ ros-one-jsk-visualization (2.1.8-73-g064068d-2025.01.07.23.19) sid; urgency=high
+Checksums-Sha1:
+ 5f87a8be7aeec3bdf56ce121d30d16d295ce779d 7113 ros-one-jsk-visualization_2.1.8-73-g064068d-2025.01.07.23.19_amd64.buildinfo
+ d39f8dc9d04e2df4b9eaba9abdc46269435a1dcc 2608 ros-one-jsk-visualization_2.1.8-73-g064068d-2025.01.07.23.19_amd64.deb
+Checksums-Sha256:
+ 5b5d572923586f79cdc5f5c889a27916d941ff5466625b8289da8e27bcabf76a 7113 ros-one-jsk-visualization_2.1.8-73-g064068d-2025.01.07.23.19_amd64.buildinfo
+ de4a0929a4bdc99658fe58a0a3ac66bb0fffd19b2ddb8c19fca9de34b9a2f265 2608 ros-one-jsk-visualization_2.1.8-73-g064068d-2025.01.07.23.19_amd64.deb
+Files:
+ fdd5655e1962839f46048b0083ba8bab 7113 misc optional ros-one-jsk-visualization_2.1.8-73-g064068d-2025.01.07.23.19_amd64.buildinfo
+ 9f17d9ea378f245a9b8eb7cea23bb096 2608 misc optional ros-one-jsk-visualization_2.1.8-73-g064068d-2025.01.07.23.19_amd64.deb

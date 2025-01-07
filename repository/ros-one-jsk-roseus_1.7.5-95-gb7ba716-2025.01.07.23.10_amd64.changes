@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 13 Dec 2021 00:00:00 -0000
+Source: ros-one-jsk-roseus
+Binary: ros-one-jsk-roseus
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.7.5-95-gb7ba716-2025.01.07.23.10
+Distribution: sid
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-roseus - Metapackage that contains roseus package for jsk-ros-pkg
+Changes:
+ ros-one-jsk-roseus (1.7.5-95-gb7ba716-2025.01.07.23.10) sid; urgency=high
+Checksums-Sha1:
+ 0b8af963359de7d8a72e3d69bd67ea7f913c3f98 7078 ros-one-jsk-roseus_1.7.5-95-gb7ba716-2025.01.07.23.10_amd64.buildinfo
+ ed4cdbf697bb00ab72068dcb659286c716d754f5 2964 ros-one-jsk-roseus_1.7.5-95-gb7ba716-2025.01.07.23.10_amd64.deb
+Checksums-Sha256:
+ 16c9160107f497d9e5fd6da4edc9d2637e94d7b55bbc12285fbb722f92fd566f 7078 ros-one-jsk-roseus_1.7.5-95-gb7ba716-2025.01.07.23.10_amd64.buildinfo
+ a904444784822451ad5f36dd7d4d3cf0e7eaa4539393b04205a0dbd987a20da5 2964 ros-one-jsk-roseus_1.7.5-95-gb7ba716-2025.01.07.23.10_amd64.deb
+Files:
+ d568f1bf6996146edf8ffdabb6e0ed92 7078 misc optional ros-one-jsk-roseus_1.7.5-95-gb7ba716-2025.01.07.23.10_amd64.buildinfo
+ deb0441e839914d23e4dca342185cbdf 2964 misc optional ros-one-jsk-roseus_1.7.5-95-gb7ba716-2025.01.07.23.10_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 06 Dec 2021 00:00:00 -0000
+Source: ros-one-resource-retriever
+Binary: ros-one-resource-retriever ros-one-resource-retriever-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.12.7-5-g40d08d6-2025.01.07.14.16
+Distribution: sid
+Urgency: high
+Maintainer: Chris Lalancette <clalancette@osrfoundation.org>
+Changed-By: Chris Lalancette <clalancette@osrfoundation.org>
+Description:
+ ros-one-resource-retriever - This package retrieves data from url-format files such as http://
+Changes:
+ ros-one-resource-retriever (1.12.7-5-g40d08d6-2025.01.07.14.16) sid; urgency=high
+ .
+   * Split curl dependency to avoid dev package at runtime (#67 <https://github.com/ros/resource_retriever/issues/67>)
+   * Contributors: Scott K Logan
+Checksums-Sha1:
+ 84d02efb9537d2910731ccc6daca539c03092cbd 686892 ros-one-resource-retriever-dbgsym_1.12.7-5-g40d08d6-2025.01.07.14.16_amd64.deb
+ b55c96f94966329c7e5fe2e3c7c9a0167d007238 17386 ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.01.07.14.16_amd64.buildinfo
+ 8ef4391e37852522877933ae9d60edb44391b63c 63808 ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.01.07.14.16_amd64.deb
+Checksums-Sha256:
+ 567f1d940ea27fedc180d1fb634b7b31dff6dafc6ff7690985cbff6cbb9c1cad 686892 ros-one-resource-retriever-dbgsym_1.12.7-5-g40d08d6-2025.01.07.14.16_amd64.deb
+ e89a07749c4784e35b19dc81d770c8bbe5cfcbabbf7bc5e2c138aae84c1c9928 17386 ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.01.07.14.16_amd64.buildinfo
+ b94df288717841e79fa0fc651f1b22736d6a8305ac1c7661ef79279eebf47616 63808 ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.01.07.14.16_amd64.deb
+Files:
+ 45140f8e525dc60749ba5f0b0bc9461b 686892 debug optional ros-one-resource-retriever-dbgsym_1.12.7-5-g40d08d6-2025.01.07.14.16_amd64.deb
+ 0b6813615bba1b21cce387499a8a03cb 17386 misc optional ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.01.07.14.16_amd64.buildinfo
+ a41e09463b5560622948f96d64ef565f 63808 misc optional ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.01.07.14.16_amd64.deb

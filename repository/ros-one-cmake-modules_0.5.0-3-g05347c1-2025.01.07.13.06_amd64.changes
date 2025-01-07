@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 23 Jan 2020 00:00:00 -0000
+Source: ros-one-cmake-modules
+Binary: ros-one-cmake-modules
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.0-3-g05347c1-2025.01.07.13.06
+Distribution: sid
+Urgency: high
+Maintainer: Mabel Zhang <mabel@openrobotics.org>
+Changed-By: Mabel Zhang <mabel@openrobotics.org>
+Description:
+ ros-one-cmake-modules - A common repository for CMake Modules which are not distributed w
+Changes:
+ ros-one-cmake-modules (0.5.0-3-g05347c1-2025.01.07.13.06) sid; urgency=high
+ .
+   * Bump CMake version to avoid CMP0048 author warning (#51 <https://github.com/ros/cmake_modules/issues/51>)
+   * Contributors: Shane Loretz
+Checksums-Sha1:
+ 1081352636d7ff074488eb2c5474f70c159c4d39 7187 ros-one-cmake-modules_0.5.0-3-g05347c1-2025.01.07.13.06_amd64.buildinfo
+ 938d84a8184ce10f12d9326e51c0b92efd8c37ce 18952 ros-one-cmake-modules_0.5.0-3-g05347c1-2025.01.07.13.06_amd64.deb
+Checksums-Sha256:
+ c49091ce1b18d25fbb99d7a97dc4f1dc3b3987ab6e99b47dea3fa6c84bdc68f8 7187 ros-one-cmake-modules_0.5.0-3-g05347c1-2025.01.07.13.06_amd64.buildinfo
+ 92fcc3a867a6bea61c32f38f2c2d330fa6bca702fddc2ef6f611fbe332f22290 18952 ros-one-cmake-modules_0.5.0-3-g05347c1-2025.01.07.13.06_amd64.deb
+Files:
+ f89bb61a255e8b287c958bfe13d84d30 7187 misc optional ros-one-cmake-modules_0.5.0-3-g05347c1-2025.01.07.13.06_amd64.buildinfo
+ 4bf33c36e1f8478da24376a3c12c3c4d 18952 misc optional ros-one-cmake-modules_0.5.0-3-g05347c1-2025.01.07.13.06_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 17 Feb 2022 00:00:00 -0000
+Source: ros-one-joint-state-publisher-gui
+Binary: ros-one-joint-state-publisher-gui
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.1-2-g7cb7069-2025.01.07.15.49
+Distribution: sid
+Urgency: high
+Maintainer: Chris Lalancette <clalancette@osrfoundation.org>
+Changed-By: Chris Lalancette <clalancette@osrfoundation.org>
+Description:
+ ros-one-joint-state-publisher-gui - This package contains a GUI tool for setting and publishing joint
+Changes:
+ ros-one-joint-state-publisher-gui (1.15.1-2-g7cb7069-2025.01.07.15.49) sid; urgency=high
+ .
+   * Use setuptools instead of distutils (#45 <https://github.com/ros/joint_state_publisher/issues/45>)
+   * Contributors: Shane Loretz
+Checksums-Sha1:
+ dd35e0c0b907f3ae9f7f29ed318e52187ca63e3b 7156 ros-one-joint-state-publisher-gui_1.15.1-2-g7cb7069-2025.01.07.15.49_amd64.buildinfo
+ 069b1893faf76651e853653126386cd94ee682f2 15032 ros-one-joint-state-publisher-gui_1.15.1-2-g7cb7069-2025.01.07.15.49_amd64.deb
+Checksums-Sha256:
+ 42ce435e8105d85b3b2834f57e5e25a65149968a805681197402a46bd6a39c57 7156 ros-one-joint-state-publisher-gui_1.15.1-2-g7cb7069-2025.01.07.15.49_amd64.buildinfo
+ 833d9cd67795d57eb4127063dbadd6836f79597bd9683260392d68d81276cc5c 15032 ros-one-joint-state-publisher-gui_1.15.1-2-g7cb7069-2025.01.07.15.49_amd64.deb
+Files:
+ 76d568fae5bafb6a2ed49447c97bbd43 7156 misc optional ros-one-joint-state-publisher-gui_1.15.1-2-g7cb7069-2025.01.07.15.49_amd64.buildinfo
+ 202e5a17fdf75ca7dc04eb20aad13c9d 15032 misc optional ros-one-joint-state-publisher-gui_1.15.1-2-g7cb7069-2025.01.07.15.49_amd64.deb

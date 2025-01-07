@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 15 Jun 2021 00:00:00 -0000
+Source: ros-one-scaled-controllers
+Binary: ros-one-scaled-controllers
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.1.1-4-gb2fff50-2025.01.07.18.50
+Distribution: sid
+Urgency: high
+Maintainer: Felix Exner <exner@fzi.de>
+Changed-By: Felix Exner <exner@fzi.de>
+Description:
+ ros-one-scaled-controllers - scaled controllers metapackage
+Changes:
+ ros-one-scaled-controllers (0.1.1-4-gb2fff50-2025.01.07.18.50) sid; urgency=high
+Checksums-Sha1:
+ 2f608744d88a857e6a5db732247542c60e866e57 7114 ros-one-scaled-controllers_0.1.1-4-gb2fff50-2025.01.07.18.50_amd64.buildinfo
+ a223dd176caa8d48dacce87e1747d17cb6efcf2a 2136 ros-one-scaled-controllers_0.1.1-4-gb2fff50-2025.01.07.18.50_amd64.deb
+Checksums-Sha256:
+ c2b05e0b27ccc2d627a7dfcd7eb8bb8e63c1d406a258bb1b49fbd14deac17695 7114 ros-one-scaled-controllers_0.1.1-4-gb2fff50-2025.01.07.18.50_amd64.buildinfo
+ 4a8a3241d694e28848fa073e7482770b2d6ffe2c41d3f64c6da57ba30ef92350 2136 ros-one-scaled-controllers_0.1.1-4-gb2fff50-2025.01.07.18.50_amd64.deb
+Files:
+ 64b119d9dd2caa72f6e00327bd278246 7114 misc optional ros-one-scaled-controllers_0.1.1-4-gb2fff50-2025.01.07.18.50_amd64.buildinfo
+ c064b4e8117fa9f38490598c4e6ca634 2136 misc optional ros-one-scaled-controllers_0.1.1-4-gb2fff50-2025.01.07.18.50_amd64.deb

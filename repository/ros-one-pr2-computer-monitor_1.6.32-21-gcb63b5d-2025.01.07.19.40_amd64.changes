@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Wed, 26 May 2021 00:00:00 -0000
+Source: ros-one-pr2-computer-monitor
+Binary: ros-one-pr2-computer-monitor ros-one-pr2-computer-monitor-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.6.32-21-gcb63b5d-2025.01.07.19.40
+Distribution: sid
+Urgency: high
+Maintainer: Dave Feil-Seifer <dave@cse.unr.edu>
+Changed-By: Dave Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-pr2-computer-monitor - Monitors the computer's processor and hard drives of the PR2 and
+Changes:
+ ros-one-pr2-computer-monitor (1.6.32-21-gcb63b5d-2025.01.07.19.40) sid; urgency=high
+ .
+   * Merge pull request #268 <https://github.com/pr2/pr2_robot/issues/268> from k-okada/fix_for_noetic
+   * run 2to3 -w -fexcept .
+   * run 2to3 -w -fprint .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ c01e1d8ea0ec40ad271e511fa1366829f44a16cd 199492 ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2025.01.07.19.40_amd64.deb
+ 1f8c7649be289b561868cbe749434347863c009b 10237 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.01.07.19.40_amd64.buildinfo
+ 43300a3bf07362b14c9cf38b2da6123ae13557e1 32728 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.01.07.19.40_amd64.deb
+Checksums-Sha256:
+ dcd23efb4b9ac971f4bea8e11161f0f2dffca6cf74ca4b42b89aeae4ed58de66 199492 ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2025.01.07.19.40_amd64.deb
+ ed9cba1b7caa75c71236265b24e1f8a6542ca24c6c1b1997681b439e25aa8a13 10237 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.01.07.19.40_amd64.buildinfo
+ dd63ce902d991a7ebcd494d40fccd00a4d7e00bd9bb8d41469a7ffd63ded7214 32728 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.01.07.19.40_amd64.deb
+Files:
+ e542d561725691485cce43fd1cde35bb 199492 debug optional ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2025.01.07.19.40_amd64.deb
+ fca03a3322df4bfb9a2e7f3edbeb053c 10237 misc optional ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.01.07.19.40_amd64.buildinfo
+ 11b7f697818dcd91531ff818b9cf20f1 32728 misc optional ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.01.07.19.40_amd64.deb

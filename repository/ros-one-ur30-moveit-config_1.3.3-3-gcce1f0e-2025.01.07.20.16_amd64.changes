@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 08 Apr 2024 00:00:00 -0000
+Source: ros-one-ur30-moveit-config
+Binary: ros-one-ur30-moveit-config
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.3.3-3-gcce1f0e-2025.01.07.20.16
+Distribution: sid
+Urgency: high
+Maintainer: Vincenzo Di Pentima <dipentima@fzi.de>
+Changed-By: Vincenzo Di Pentima <dipentima@fzi.de>
+Description:
+ ros-one-ur30-moveit-config - An automatically generated package with all the configuration and
+Changes:
+ ros-one-ur30-moveit-config (1.3.3-3-gcce1f0e-2025.01.07.20.16) sid; urgency=high
+ .
+   * UR30 description and meshes (#674 <https://github.com/ros-industrial/universal_robot/issues/674>)
+   * Contributors: Vincenzo Di Pentima
+Checksums-Sha1:
+ e86c6a1070ee2ff0114e6f9d2ffd8be3213fcd80 7117 ros-one-ur30-moveit-config_1.3.3-3-gcce1f0e-2025.01.07.20.16_amd64.buildinfo
+ 1934f954aaaeac934df8b99003d6cf3c2984a462 15592 ros-one-ur30-moveit-config_1.3.3-3-gcce1f0e-2025.01.07.20.16_amd64.deb
+Checksums-Sha256:
+ 40f3487ea82b262f67b9d395216d2497815e57c0a34d5f4f1faa8ba84b85560b 7117 ros-one-ur30-moveit-config_1.3.3-3-gcce1f0e-2025.01.07.20.16_amd64.buildinfo
+ 355d5cea7744f9d587cae242368c394ba55768fc2fa2c64b4af49a31ff6788b8 15592 ros-one-ur30-moveit-config_1.3.3-3-gcce1f0e-2025.01.07.20.16_amd64.deb
+Files:
+ 0346a427e40095ead9bb5cb13c75b18b 7117 misc optional ros-one-ur30-moveit-config_1.3.3-3-gcce1f0e-2025.01.07.20.16_amd64.buildinfo
+ a7457f5ae60f809a62f8fa0c646c508e 15592 misc optional ros-one-ur30-moveit-config_1.3.3-3-gcce1f0e-2025.01.07.20.16_amd64.deb

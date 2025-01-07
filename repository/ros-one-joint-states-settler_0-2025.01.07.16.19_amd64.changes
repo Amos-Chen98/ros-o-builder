@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-joint-states-settler
+Binary: ros-one-joint-states-settler ros-one-joint-states-settler-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.01.07.16.19
+Distribution: sid
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-joint-states-settler - Provides a node that reports how long a subset of joints has been
+Changes:
+ ros-one-joint-states-settler (0-2025.01.07.16.19) sid; urgency=high
+ .
+   * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+     Noetic devel
+   * fixes for compiler warnings CMP0048 and CMP0046
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ 0fb1ad7f2eac2a5fefcec6f6456a27b75255f905 1459168 ros-one-joint-states-settler-dbgsym_0-2025.01.07.16.19_amd64.deb
+ 50637d1f8f4cc851bc08bb2a223739d85ed76700 18052 ros-one-joint-states-settler_0-2025.01.07.16.19_amd64.buildinfo
+ 453144c0032db4f97357ed75d11b3fa3a5e898f9 145504 ros-one-joint-states-settler_0-2025.01.07.16.19_amd64.deb
+Checksums-Sha256:
+ ec4d389e7300fdea20d7b4b3b99d3feee12a02e3da3d9fced8aca6a6b425d9b0 1459168 ros-one-joint-states-settler-dbgsym_0-2025.01.07.16.19_amd64.deb
+ 63674f5a2461f64674c0088c9272ab20a5722efdfa4d0b77fd36e794bec93fd5 18052 ros-one-joint-states-settler_0-2025.01.07.16.19_amd64.buildinfo
+ f95c8ae704a1aa520d31c4f9ad2bcefc81a99946303ab6d903af459e6e73bf74 145504 ros-one-joint-states-settler_0-2025.01.07.16.19_amd64.deb
+Files:
+ 14c6e103c543574b6261a6a781719d5b 1459168 debug optional ros-one-joint-states-settler-dbgsym_0-2025.01.07.16.19_amd64.deb
+ 16ac4830e852d520ad3e37415a4555aa 18052 misc optional ros-one-joint-states-settler_0-2025.01.07.16.19_amd64.buildinfo
+ 1051d4e2112dc34effbdd32741ff4612 145504 misc optional ros-one-joint-states-settler_0-2025.01.07.16.19_amd64.deb

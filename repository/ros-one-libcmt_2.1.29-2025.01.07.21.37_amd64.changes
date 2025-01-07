@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-libcmt
+Binary: ros-one-libcmt ros-one-libcmt-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.29-2025.01.07.21.37
+Distribution: sid
+Urgency: high
+Maintainer: Yuto Inagaki <inagaki@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Yuto Inagaki <inagaki@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-libcmt - libCMT ROS Wrapper
+Changes:
+ ros-one-libcmt (2.1.29-2025.01.07.21.37) sid; urgency=high
+Checksums-Sha1:
+ b52baf5f21e9c337862e43e2c89e65cefc4089fc 450208 ros-one-libcmt-dbgsym_2.1.29-2025.01.07.21.37_amd64.deb
+ 9830de2cfb585f57e6b938c6d531a40e98f72362 26744 ros-one-libcmt_2.1.29-2025.01.07.21.37_amd64.buildinfo
+ f3fa657f5d064ea01759d54c8053ed64f68e4fc1 29852 ros-one-libcmt_2.1.29-2025.01.07.21.37_amd64.deb
+Checksums-Sha256:
+ 696b30c447042dd32ace291cea30cff9a6a228b6d80a79454a20d9f0e5287524 450208 ros-one-libcmt-dbgsym_2.1.29-2025.01.07.21.37_amd64.deb
+ 06bb7a8a8933fa3b819b6bedda0f0aa90139810938ab0ac8e28ecde4dc12a9b8 26744 ros-one-libcmt_2.1.29-2025.01.07.21.37_amd64.buildinfo
+ ffa5b30372742c3ec83efc3fc0b4102eaef554dfcbb6d786475abe18ffa65919 29852 ros-one-libcmt_2.1.29-2025.01.07.21.37_amd64.deb
+Files:
+ 7fd32058028d536d72d1dec77e58ca40 450208 debug optional ros-one-libcmt-dbgsym_2.1.29-2025.01.07.21.37_amd64.deb
+ 55d244c6afd44ff468b2319673b91a32 26744 misc optional ros-one-libcmt_2.1.29-2025.01.07.21.37_amd64.buildinfo
+ 45451a6b03352c9b0d3b33ef974e00c7 29852 misc optional ros-one-libcmt_2.1.29-2025.01.07.21.37_amd64.deb

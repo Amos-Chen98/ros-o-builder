@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 13 Sep 2018 00:00:00 -0000
+Source: ros-one-openni-launch
+Binary: ros-one-openni-launch
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.01.07.18.30
+Distribution: sid
+Urgency: high
+Maintainer: Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>
+Changed-By: Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>
+Description:
+ ros-one-openni-launch - Launch files to open an OpenNI device and load all nodelets to co
+Changes:
+ ros-one-openni-launch (0-2025.01.07.18.30) sid; urgency=high
+Checksums-Sha1:
+ b0cf727f99ec8330792918d2972c51d5e5418034 11366 ros-one-openni-launch_0-2025.01.07.18.30_amd64.buildinfo
+ 4e30befbd6aeef8e126f5f1820ba5f757450c986 9848 ros-one-openni-launch_0-2025.01.07.18.30_amd64.deb
+Checksums-Sha256:
+ 941a59755631c4849a04e6c5815024222bb87d7c9dc3e0190f2ef0d3f539bb99 11366 ros-one-openni-launch_0-2025.01.07.18.30_amd64.buildinfo
+ 7016733f0a19998ed9c35d11b0235d33169b9a91347a6c8a62b385940c09b714 9848 ros-one-openni-launch_0-2025.01.07.18.30_amd64.deb
+Files:
+ eb1bc62d4b41dc1f56ac7bfbf11608fe 11366 misc optional ros-one-openni-launch_0-2025.01.07.18.30_amd64.buildinfo
+ 3d02bd886b1e204daf6a2447c3ddbe1b 9848 misc optional ros-one-openni-launch_0-2025.01.07.18.30_amd64.deb

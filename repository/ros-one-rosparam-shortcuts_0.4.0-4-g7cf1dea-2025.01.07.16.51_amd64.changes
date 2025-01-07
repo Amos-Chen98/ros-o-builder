@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 02 Jun 2020 00:00:00 -0000
+Source: ros-one-rosparam-shortcuts
+Binary: ros-one-rosparam-shortcuts ros-one-rosparam-shortcuts-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.0-4-g7cf1dea-2025.01.07.16.51
+Distribution: sid
+Urgency: high
+Maintainer: Dave Coleman <davetcoleman@gmail.com>
+Changed-By: Dave Coleman <davetcoleman@gmail.com>
+Description:
+ ros-one-rosparam-shortcuts - Quickly load variables from rosparam with good command line error
+Changes:
+ ros-one-rosparam-shortcuts (0.4.0-4-g7cf1dea-2025.01.07.16.51) sid; urgency=high
+ .
+   * bump cmake version (#13 <https://github.com/PickNikRobotics/rosparam_shortcuts/issues/13>)
+     get rid of CMP0048 warning.
+     https://github.com/ros-planning/geometric_shapes/pull/129
+   * Contributors: Michael Görner
+Checksums-Sha1:
+ f23b4fb074e750cd4d897ec9e552d526decb5dd7 953500 ros-one-rosparam-shortcuts-dbgsym_0.4.0-4-g7cf1dea-2025.01.07.16.51_amd64.deb
+ 232a112198c691a9b7b72141ec4357b40eea2198 10388 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.07.16.51_amd64.buildinfo
+ cdf5e5d46498332ac63df133af965d2e354848b8 42300 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.07.16.51_amd64.deb
+Checksums-Sha256:
+ bfe154d57a9cc716da6662081e30591734a22a890c4130b3ad0cf380fb4c294c 953500 ros-one-rosparam-shortcuts-dbgsym_0.4.0-4-g7cf1dea-2025.01.07.16.51_amd64.deb
+ 002a437f39d71a3498fd1d6a68b035cd71eed56fb3ddcbcc4a24e629a80baa7d 10388 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.07.16.51_amd64.buildinfo
+ e271a7baa797b58458af3c895059bcf81588480f193febbfbf919136777ccd79 42300 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.07.16.51_amd64.deb
+Files:
+ e709afb01331db6ff1279a78243083d3 953500 debug optional ros-one-rosparam-shortcuts-dbgsym_0.4.0-4-g7cf1dea-2025.01.07.16.51_amd64.deb
+ 5a9f9ff541c68b60a8c3ae8853750a5d 10388 misc optional ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.07.16.51_amd64.buildinfo
+ 8b40a107bd74bdf5428903eb9bdcbaa4 42300 misc optional ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.07.16.51_amd64.deb

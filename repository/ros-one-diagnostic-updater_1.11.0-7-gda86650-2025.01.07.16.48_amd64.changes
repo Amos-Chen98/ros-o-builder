@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-diagnostic-updater
+Binary: ros-one-diagnostic-updater ros-one-diagnostic-updater-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2025.01.07.16.48
+Distribution: sid
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-diagnostic-updater - diagnostic_updater contains tools for easily updating diagnostics
+Changes:
+ ros-one-diagnostic-updater (1.11.0-7-gda86650-2025.01.07.16.48) sid; urgency=high
+ .
+   * Use DiagnosticLevel enum instead of hardcoded integers (#208 <https://github.com/ros/diagnostics/issues/208>)
+     Spellcheck fixes
+   * Contributors: Amilcar Lucas
+Checksums-Sha1:
+ 843fa28997eb9480d6c94414eeb7e76ff5e8b5d3 341224 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.01.07.16.48_amd64.deb
+ 87a4d9635277490de4f96c8b7f787293d7376457 12178 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.07.16.48_amd64.buildinfo
+ 0d6deb77fd7ec45e07ab2dde645a724b73d8178d 60032 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.07.16.48_amd64.deb
+Checksums-Sha256:
+ 8f6ac7709d60275158c38cf40eeeca84528741143e85de1f542eedf497053828 341224 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.01.07.16.48_amd64.deb
+ 3898f2d24300eb894315388000b07ab5183d52a64cc9556b6ce902f5842f9c4e 12178 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.07.16.48_amd64.buildinfo
+ ea20d791e8f068a6882ebafd13f9d3e54e9805aed09fcc92df582bd4bc9bbc81 60032 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.07.16.48_amd64.deb
+Files:
+ 65b87cb580c236e34a22f003fdbf51fd 341224 debug optional ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.01.07.16.48_amd64.deb
+ af020ad538351523a45948bf6466fd23 12178 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.07.16.48_amd64.buildinfo
+ d91c3f992084fc2ac049bbe5a5b64604 60032 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.07.16.48_amd64.deb

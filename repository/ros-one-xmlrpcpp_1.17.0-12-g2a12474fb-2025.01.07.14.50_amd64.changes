@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 13 Sep 2024 00:00:00 -0000
+Source: ros-one-xmlrpcpp
+Binary: ros-one-xmlrpcpp ros-one-xmlrpcpp-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-12-g2a12474fb-2025.01.07.14.50
+Distribution: sid
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-xmlrpcpp - XmlRpc++ is a C++ implementation of the XML-RPC protocol.
+Changes:
+ ros-one-xmlrpcpp (1.17.0-12-g2a12474fb-2025.01.07.14.50) sid; urgency=high
+ .
+   * Fix printing XmlRpcValue with GTest (#2224 <https://github.com/ros/ros_comm/issues/2224>)
+   * Fix EINTR handling in XmlRpcDispatch::work (#2278 <https://github.com/ros/ros_comm/issues/2278>)
+   * Contributors: Hugal31, Martin Pecka
+Checksums-Sha1:
+ b78bafd011f2e161f02b648fc53200a137ad0402 552172 ros-one-xmlrpcpp-dbgsym_1.17.0-12-g2a12474fb-2025.01.07.14.50_amd64.deb
+ bd8f851c1060320714ba1481e748d00546ba0eac 8413 ros-one-xmlrpcpp_1.17.0-12-g2a12474fb-2025.01.07.14.50_amd64.buildinfo
+ 23aaa563faa384c7b3bf778c8f92bd04dfc4f19e 65036 ros-one-xmlrpcpp_1.17.0-12-g2a12474fb-2025.01.07.14.50_amd64.deb
+Checksums-Sha256:
+ dae2b5cd2bfcc2c9ce30d1a944e08a618f71879820e5ce0348b14f509e9a4af7 552172 ros-one-xmlrpcpp-dbgsym_1.17.0-12-g2a12474fb-2025.01.07.14.50_amd64.deb
+ 3a5d058702bd934e71086892ca3fdb6866cf23859489171bf9ea296a01baedc6 8413 ros-one-xmlrpcpp_1.17.0-12-g2a12474fb-2025.01.07.14.50_amd64.buildinfo
+ 010e09f82860c3af2a43b710c850d67fddf0f1b50e795c1b069fe448ec3914ca 65036 ros-one-xmlrpcpp_1.17.0-12-g2a12474fb-2025.01.07.14.50_amd64.deb
+Files:
+ 336c8eeed8cf5418d94361a14d37234e 552172 debug optional ros-one-xmlrpcpp-dbgsym_1.17.0-12-g2a12474fb-2025.01.07.14.50_amd64.deb
+ 292159ca9c29084deff8c909a3f815f0 8413 misc optional ros-one-xmlrpcpp_1.17.0-12-g2a12474fb-2025.01.07.14.50_amd64.buildinfo
+ be53ed6aa8b3f733550d56962e1064ac 65036 misc optional ros-one-xmlrpcpp_1.17.0-12-g2a12474fb-2025.01.07.14.50_amd64.deb
